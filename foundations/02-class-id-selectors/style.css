@@ -1,0 +1,22 @@
+.odd {
+    background-color: #ffb6c1;
+    font-family: Verdana, Dejavu-sans, sans-serif;
+}
+
+#special {
+    font-size: 36px;
+    color: #0035eb;
+
+}
+
+.addition {
+
+    font-size: 24px;
+}
+
+#big {
+    background-color: #74ff43;
+    font-weight: bold;
+    font-size: 24px;
+
+}
